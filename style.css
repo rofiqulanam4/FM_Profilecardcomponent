@@ -1,0 +1,28 @@
+/* background */
+body {
+    background-color: hsl(192, 70%, 44%);
+    background-attachment: fixed;
+}
+
+body #img1 {
+    transform: rotate(90deg);
+    margin-top: 200px;
+    margin-left: -900px;
+}
+
+body #img2 {
+    margin-top: -800px;
+    margin-left: 700px;
+    /* margin-right: -150px;
+    margin-bottom: 50%; */
+}
+
+/* end background */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
